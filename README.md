@@ -12,9 +12,9 @@ Projeto desenvolvido para o projeto final do módulo bônus de React ofertado pe
 ## 💻 Tecnologias usadas
 
 **HTML**  
-**CSS**
-**JAVASCRIPT**
-**REACT**
+**CSS**   
+**JAVASCRIPT**   
+**REACT**   
 
 
 ********************  
